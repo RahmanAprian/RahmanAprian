@@ -1,5 +1,6 @@
-# Halo Saya Rahman Aprian👋
+## Halo Saya Rahman Aprian👋
 
+![Rahman Aprian](img/github-header-banner%20(1).png)
 <!--
 **RahmanAprian/RahmanAprian** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -15,4 +16,11 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-- 🌱 I’m currently learning Laravel
+#### Connect With Me
+![](https://img.shields.io/badge/Portfolio-255E63?style=for-the-badge&logo=About.me&logoColor=white)
+
+![https://www.linkedin.com/in/rahman-aprian-39b6ab279?utm_source=share_via&utm_content=profile&utm_medium=member_android](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)
+
+![https://instagram.com/rhmn0504](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)
+
+![](https://img.shields.io/badge/Threads-000000?style=for-the-badge&logo=Threads&logoColor=white)
