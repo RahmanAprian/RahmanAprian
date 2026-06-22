@@ -94,14 +94,14 @@
 
 ###
 
-<h2 data-importer="text" align="left">Recently Music</h2>
+<h2 data-importer="text" align="left">Github Statistics</h2>
 
 ###
 
-<div data-importer="music" align="center">
-  <a href="https://open.spotify.com/user/Aprianrahman">
-    <img src="https://spotify-recently-played-readme.vercel.app/api?user=Aprianrahman&count=5&unique=false" alt="Spotify recently played"  />
-  </a>
+<div data-importer="stats" align="center">
+  <img src="https://raw.githubusercontent.com/RahmanAprian/RahmanAprian/stats-output/stats.svg?hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false&order=1" height="150" alt="stats graph"  />
+  <img src="https://raw.githubusercontent.com/RahmanAprian/RahmanAprian/languages-output/languages.svg?locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false&order=2" height="150" alt="languages graph"  />
+  <img src="https://streak-stats.demolab.com?user=RahmanAprian&locale=en&mode=daily&theme=dracula&hide_border=false&border_radius=5&order=3" height="150" alt="streak graph"  />
 </div>
 
 ###
@@ -121,15 +121,6 @@
 </picture>
 
 ###
-
-<picture data-importer="pacman">
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/RahmanAprian/RahmanAprian/pacman-output/puzzle-bobble-contribution-graph-dark.svg?game=puzzle-bobble">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/RahmanAprian/RahmanAprian/pacman-output/puzzle-bobble-contribution-graph.svg?game=puzzle-bobble">
-  <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/RahmanAprian/RahmanAprian/pacman-output/puzzle-bobble-contribution-graph.svg?game=puzzle-bobble">
-</picture>
-
-###
-
 <div data-importer="image" align="center">
   <img data-importer="image" height="200" src="https://media.tenor.com/5QOcWOXmrEkAAAAj/terima-kasih.gif"  />
 </div>
