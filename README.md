@@ -2,21 +2,14 @@
 
 ![Rahman Aprian](img/github-header-banner%20(1).png)
 
-<!-- 
-#### Connect With Me
-![](https://img.shields.io/badge/Portfolio-255E63?style=for-the-badge&logo=About.me&logoColor=white)
-
-![https://www.linkedin.com/in/rahman-aprian-39b6ab279?utm_source=share_via&utm_content=profile&utm_medium=member_android](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)
-
-[![instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/rhmn0504?igsh=MTZiNDQ4cXptbmkxdA==)
-
-![](https://img.shields.io/badge/Threads-000000?style=for-the-badge&logo=Threads&logoColor=white) --> 
 
 <h2 data-importer="text" align="left">Connect With Me 📞</h2>
 
 ###
+[![Portfolio](https://img.shields.io/badge/Portfolio-255E63?style=for-the-badge&logo=about.me&logoColor=white)](https://portofolio-rahman-aprian.vercel.app/)
 
 <div data-importer="socials" align="left">
+
   <a href="https://www.linkedin.com/in/rahman-aprian-39b6ab279?utm_source=share_via&utm_content=profile&utm_medium=member_android" target="_blank">
     <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="52" height="40" alt="linkedin logo"  />
   </a>
@@ -76,6 +69,10 @@
   <img src="https://skillicons.dev/icons?i=php" height="40" alt="php logo"  />
   <img width="12" />
   <img src="https://skillicons.dev/icons?i=nodejs" height="40" alt="nodejs logo"  />
+  <img width="12" />
+  <img src="https://cdn.simpleicons.org/mysql/4479A1" height="40" alt="mysql logo"  />
+  <img width="12" />
+  <img src="https://cdn.simpleicons.org/laravel/FF2D20" height="40" alt="laravel logo"  />
 </div>
 
 ###
@@ -102,6 +99,7 @@
   <img src="https://raw.githubusercontent.com/RahmanAprian/RahmanAprian/stats-output/stats.svg?hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false&order=1" height="150" alt="stats graph"  />
   <img src="https://raw.githubusercontent.com/RahmanAprian/RahmanAprian/languages-output/languages.svg?locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false&order=2" height="150" alt="languages graph"  />
   <img src="https://streak-stats.demolab.com?user=RahmanAprian&locale=en&mode=daily&theme=dracula&hide_border=false&border_radius=5&order=3" height="150" alt="streak graph"  />
+  <img src="https://raw.githubusercontent.com/RahmanAprian/RahmanAprian/activity-graph-output/activity-graph.svg?radius=16&theme=react&area=true&order=5" height="300" alt="activity-graph graph"  />
 </div>
 
 ###
